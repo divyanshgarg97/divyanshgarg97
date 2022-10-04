@@ -1,6 +1,6 @@
 # Hello, I'm Divyansh Garg 👋 
 ### I'm a Senior Software Engineer(SDE-2) working at [KPIT](https://www.kpit.com/) having experience in Software Domain ~ 2.5 years.<br/> 
-### I work for clients from BMW and Arriver. We are building next level Self-Driving Cars.🤖🚘
+### I work for clients from BMW and Arriver. We are building Self-Driving Cars.🤖🚘
 
 ### ✅<u><strong>About Me</strong></u>🙏
 - 📚 I’m currently learning Django, Docker and System Design.
