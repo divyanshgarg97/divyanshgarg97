@@ -1,3 +1,5 @@
+<img align="center" alt="C" height="500px" width="1200px" src="https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/08/23163710/Computer-Courses-After-12th-Commerce.jpg" style="padding-right:10px;" />
+
 # Hello, I'm Divyansh Garg 👋 
 ### I'm a Senior Software Engineer(SDE-2) working at [KPIT](https://www.kpit.com/) having experience in Software Domain ~ 2.5 years.<br/> 
 ### I work for clients from BMW and Arriver. We are building Self-Driving Cars.🤖🚘
