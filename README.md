@@ -2,7 +2,7 @@
 ### I'm a Senior Software Engineer(SDE-2) working at [KPIT](https://www.kpit.com/) having experience in Software Domain ~ 2.5 years.<br/> 
 ### I work for clients from BMW and Arriver. We are building next level Self-Driving Cars.🤖🚘
 
-### <u><strong>About Me</strong></u>🙏
+### ✅<u><strong>About Me</strong></u>🙏
 - 📚 I’m currently learning Django, Docker and System Design.
 - 👨‍💻 I love solving Data Structures and Algorithm problems, did Competitive Programming🎖️ as well for a while.
 - 🚀 Solved 1200+ problem solving questions on multiple platforms.
@@ -10,16 +10,15 @@
 - 💯 Exploring the sea of knowledge in Computer Science.
 - 🔥 Passionate about technology
 - 📶 Connect with me through Email or Linkedin, would love to know you.🤝
-
-### <u><strong>My Tech Stack</strong></u>👨‍💻
-<strong>Languages</strong>: C | C++ | Java | Python(Intermediate) <br/>
-<strong>Frontend</strong>: HTML | CSS | Javascript(Basic) <br/>
-<strong>Backend</strong>: Django | Spring Boot | Redis <br/>
-<strong>Others</strong>: Git | Vim | Vscode | Linux | Docker | OpenCV | Pandas | Numpy | TensorFlow <br/>
-<strong>Operating System</strong>: Windows | Ubuntu
-
+### ✅<u><strong>My Tech Stack</strong></u>👨‍💻
+➡️<strong>Languages</strong>: C | C++ | Java | Python(Intermediate) <br/>
+➡️<strong>Frontend</strong>: HTML | CSS | Javascript(Basic) <br/>
+➡️<strong>Backend</strong>: Django | Spring Boot | Redis <br/>
+➡️<strong>Others</strong>: Git | Vim | Vscode | Linux | Docker | Jenkin | OpenCV | Pandas | Numpy | TensorFlow | Mysql<br/>
+➡️<strong>Operating System</strong>: Windows | Ubuntu
 
 <img align="left" alt="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="html5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -33,12 +32,15 @@
 <img align="left" alt="vscode" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;"/>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="35" height="35"/> </a>
 <img align="left" alt="opencv" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" style="padding-right:10px;" />
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a>
 
 <br/>
 <br/>
 
-### <u><strong> Checkout My Coding Profiles!</strong></u>✨
+### ✅<u><strong> Checkout My Coding Profiles!</strong></u>✨
 | Platform      | Profile |
 | ----------- | ----------- |
 | [<img align="left" width="100px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg">](https://leetcode.com/divyanshgarg97)      | [@divyanshgarg97](https://leetcode.com/divyanshgarg97)    |
@@ -50,21 +52,21 @@
 
 <br/>
 
-### <u><strong>Connect with me</strong></u>💬💬
-E-Mail: divyanshgrg1997@gmail.com (It is 'grg'✔️ and NOT 'garg'❌ in mail😅) <br/>
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/divyanshgarg97/) &nbsp; 
- &nbsp;[@divyanshgarg97](https://linkedin.com/in/divyanshgarg97)
+### ✅<u><strong>Connect with me</strong></u>💬
+👉E-mail📩: **divyanshgrg1997@gmail.com** (It is 'grg'✔️ and NOT 'garg'❌ in mail😅) <br/>
+👉<a href="https://linkedin.com/in/divyanshgarg97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshgarg97" height="30" width="40" /></a>&nbsp;&nbsp;[@divyanshgarg97](https://linkedin.com/in/divyanshgarg97)
+<br/>
+👉<a href="https://stackoverflow.com/users/divyanshgarg97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="divyanshgarg97" height="30" width="40" /></a>&nbsp;&nbsp;[@divyanshgarg97](https://stackoverflow.com/users/11073780/divyanshgarg97)
 
-### <u><strong>Profile Statistics</strong></u>📈📈
+### <u><strong>✅Profile Statistics</strong></u>📈📈
 
 ![Profile views](https://gpvc.arturio.dev/divyanshgarg97)
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshgarg97&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+
  
  <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=divyanshgarg97&theme=react-dark)](https://github.com/divyanshgarg97/github-readme-activity-graph)
- 
- <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshgarg97&theme=dark&layout=compact&align=right&width=40%)](https://github.com/divyanshgarg97/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshgarg97&" alt="divyanshgarg97" /></p> 
+
+
 
