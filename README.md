@@ -50,7 +50,8 @@
 | [<img align="left" width="100px" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png">](https://www.hackerrank.com/Divyansh_Garg_97)   | [@Divyansh_Garg_97](https://www.hackerrank.com/Divyansh_Garg_97)  |
 | [<img align="left" width="60px" src="https://img.atcoder.jp/assets/logo.png">](https://kenkoooo.com/atcoder#/table/divyanshgarg97)  |   [@divyanshgarg97](https://kenkoooo.com/atcoder#/table/divyanshgarg97)   |
 |  [<img align="left" width="90px" src="https://codeforces.org/s/66557/images/codeforces-sponsored-by-ton.png">](https://codeforces.com/profile/divyansh__garg)   |   [@divyansh__garg](https://codeforces.com/profile/divyansh__garg)   |
-|  [<img align="left" width="50px" src="https://cdn.dribbble.com/users/1139587/screenshots/16629025/media/36f218ab2c06792de4641d78e46145a9.jpg?compress=1&resize=1000x750&vertical=top">](https://binarysearch.com/@/divyanshgarg) Binarysearch.com  |  [@divyanshgarg](https://binarysearch.com/@/divyanshgarg)    |
+|  [<img align="left" width="50px" src="https://cdn.dribbble.com/users/1139587/screenshots/16629025/media/36f218ab2c06792de4641d78e46145a9.jpg?compress=1&resize=1000x750&vertical=top">](https://binarysearch.com/@/divyanshgarg) <strong>Binarysearch.com</strong>  |  [@divyanshgarg](https://binarysearch.com/@/divyanshgarg)    |
+|  [<img align="left" width="50px" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg">](https://auth.geeksforgeeks.org/user/divyanshgarg97) <strong> Geeksforgeeks.org</strong> |  [@divyanshgarg97](https://auth.geeksforgeeks.org/user/divyanshgarg97)    |
 
 <br/>
 
