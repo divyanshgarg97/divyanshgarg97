@@ -1,6 +1,6 @@
 <img align="center" alt="C" height="500px" width="1200px" src="https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/08/23163710/Computer-Courses-After-12th-Commerce.jpg" style="padding-right:10px;" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=3CE7FF&width=435&lines=Senior+Software+Engineer+%40+KPIT%F0%9F%92%BC;Works+for%3A+BMW+Arriver+Valeo%F0%9F%92%BB;Skilled+in+C%2B%2B%2C+Python%2C+Java%2C+Django%F0%9F%93%9A;Competitive+Programmer%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F75C7EFF&width=435&lines=Senior+Software+Engineer+%40+KPIT%F0%9F%92%BC;Works+for%3A+BMW+Arriver+Valeo%F0%9F%92%BB;Skilled+in+C%2B%2B%2C+Python%2C+Java%2C+Django%F0%9F%93%9A;Competitive+Programmer%F0%9F%94%A5)](https://git.io/typing-svg)
 
 # Hello, I'm Divyansh Garg 👋 
 ### I'm a Senior Software Engineer(SDE-2) working at [KPIT](https://www.kpit.com/) having experience in Software Domain ~ 2.5 years.<br/> 
