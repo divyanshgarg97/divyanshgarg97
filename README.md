@@ -54,6 +54,7 @@
 |  [<img align="left" width="90px" src="https://codeforces.org/s/66557/images/codeforces-sponsored-by-ton.png">](https://codeforces.com/profile/divyansh__garg)   |   [@divyansh__garg](https://codeforces.com/profile/divyansh__garg)   |
 |  [<img align="left" width="50px" src="https://cdn.dribbble.com/users/1139587/screenshots/16629025/media/36f218ab2c06792de4641d78e46145a9.jpg?compress=1&resize=1000x750&vertical=top">](https://binarysearch.com/@/divyanshgarg) <strong>Binarysearch.com</strong>  |  [@divyanshgarg](https://binarysearch.com/@/divyanshgarg)    |
 |  [<img align="left" width="50px" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg">](https://auth.geeksforgeeks.org/user/divyanshgarg97) <strong> Geeksforgeeks.org</strong> |  [@divyanshgarg97](https://auth.geeksforgeeks.org/user/divyanshgarg97)    |
+|  [<img align="left" width="150px" src="https://stx1.spoj.com/gfx/2015e.png">](https://www.spoj.com/users/divyansh__garg)|  [@divyansh__garg](https://www.spoj.com/users/divyansh__garg/)    |
 
 <br/>
 
